@@ -19,7 +19,7 @@ Machine learning project that predicts passenger survival on the Titanic using c
 - Logistic Regression
 - Random Forest Classifier
 - Gradient Boosting Classifier
-- XGBoost (imported and evaluated)
+- XGBoost 
 
 Hyperparameter tuning was performed with **GridSearchCV** + 5-fold cross-validation (`KFold`, `shuffle=True`, `random_state=42`).
 
